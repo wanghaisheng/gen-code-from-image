@@ -1,3 +1,20 @@
+首页参考 
+
+https://growffy.vercel.app/
+
+https://github.com/wanghaisheng/vpn-vault-landingpage
+
+另外一个版本
+https://chatwex.vercel.app/chat
+
+
+设计稿格式	操作方式	支持程度	备注
+Sketch	插件上传	✅ 完美支持	
+PSD	插件上传	✅ 完美支持	
+Figma	插件上传	✅ 完美支持	
+即时设计	插件上传	✅ 完美支持	
+
+
 # Jarvis AI - A Modern SaaS AI Platform
 
 Complete AI Tools (Chatbot, Image Generation, Music Generation, Video Generation, and Code Generation) SaaS Platform built using Next.js 14, Stripe, OpenAI, ReplicateAI, Crisp, Aiven, and Prisma.
